@@ -6,7 +6,7 @@ date: 2020-08-27 18:00:00 -0300
 background: ''
 ---
 
-<img src="/img/momentobiscoitos/vanesinhameuamor.jpg" alt="Foto de Vanessa" width="30%" style="float: left; margin-right: 10px;">
+<img src="/img/momentobiscoitos/vanessinhameuamor.jpg" alt="Foto de Vanessa" width="30%" style="float: left; margin-right: 10px;">
 
 
 O segundo **#momentobiscoitos** não poderia ser com outra pessoa senão a revisora chefe deste maravilhoso site. **Dona Vanessa Sidrim** é nascida e criada no Cariri Cearense, graduada em ciência da computação (UNIPÊ)e mestranda em ciência da computação (Unicamp). Atualmente ela está pesquisando sobre umas coisas ai de inteligência artificial (visão computacional, neural architecture search, automatic machine/deep learning). É membra fundadora da PyLadies Paraíba. Louca desesperada por música, um pouco indecisa, seguidora fiel da filosofia da truação e amante dos testes de comida do buzzfeed. Ela é uma mulher toda tímida mas que aceita todas as ciladas que eu digo “vamo?”. Além de um coração gigante e dengoso, ela é responsável pelas combinações alimentícias mais peculiares já vistas. E quero, hoje, que vocês a conheçam também!
