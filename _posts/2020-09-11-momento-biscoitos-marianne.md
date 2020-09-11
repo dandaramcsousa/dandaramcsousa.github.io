@@ -9,7 +9,7 @@ background: ''
 <img src="/img/momentobiscoitos/relampagomarquinho.jpg" alt="Foto de Vanessa" width="30%" style="float: left; margin-right: 10px;">
 
 
-O momento biscoitos dessa vez é com uma das mulheres mais incríveis que já passou na minha vida. Fizemos a graduação juntas e é impossível conviver e não admirar Mari. Ela tem 23 anos e atualmente é Research Engineer na [DeepMind](https://deepmind.com/) (Londres). É formada em Ciência da Computação pela UFCG, e durante a graduação teve a oportunidade de contribuir em diferentes projetos como o [Projeto Olímpico](http://www.dsc.ufcg.edu.br/~opi/), e em atividades com as ilustríssimas do PyLadies Paraíba. Outras coisas que ela fez vocês podem ver aqui: http://mari-linhares.github.io.
+O momento biscoitos dessa vez é com uma das mulheres mais incríveis que já passou na minha vida. Fizemos a graduação juntas e é impossível conviver e não admirar Mari. Ela tem 23 anos e atualmente é Research Engineer na [DeepMind](https://deepmind.com/) (Londres). É formada em Ciência da Computação pela UFCG, e durante a graduação teve a oportunidade de contribuir em diferentes projetos como o [Projeto Olímpico](http://www.dsc.ufcg.edu.br/~opi/), e em atividades com as ilustríssimas do PyLadies Paraíba. Outras coisas que ela fez vocês podem ver aqui: [http://mari-linhares.github.io](http://mari-linhares.github.io).
 
 **1. Como é a amiga que mora longe eu já começo jogando um: chegasse como em Londres?**
 
@@ -36,6 +36,7 @@ Com o fim da adolescência, veio o início do meu bom senso e aí comecei a gost
 Acho que diria pra ter calma e não se cobrar tanto, que ela ta no caminho certo, que admiro a coragem dela e a vontade que ela tem de acertar. Mas que ela tem que se permitir errar.
 
 ![Biscoito dançando](https://media.giphy.com/media/1ngQorBCDcUFy/giphy.gif)
+
 **Bônus track**
 
 **5. Manda as diquinhas para se manter atualizada com a IA e ser grande Mari no futuro.**
