@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#momentosbiscoitos: Débora"
+title: "#momentobiscoitos: Débora"
 subtitle: "s01e04: a palestrante internacional e mundialmente famosa da PyLadies"
 date: 2020-10-03 16:00:00 -0300
 background: ''
@@ -8,7 +8,7 @@ background: ''
 
 <img src="/img/momentobiscoitos/debsperfeita.jpg" alt="Foto de Mari" width="30%" style="float: left; margin-right: 10px;">
 
-E vamos a mais um **#momentosbiscoitos**. O de hoje eu já tinha pensado no exato dia que pensei em começar essa saga/projeto. Débora é aquela pessoa que é impossível não querer por perto. Ela se descreve como: Mestranda em Inovação em Tecnologias Educacionais, bacharelanda em TI, licenciada em Letras Inglês, técnica em Informática e Redes de Computadores. A teacher que toca violão na escola. A da PyLadies. A que é professora de Inglês mas estuda tecnologia.
+E vamos a mais um **#momentobiscoitos**. O de hoje eu já tinha pensado no exato dia que pensei em começar essa saga/projeto. Débora é aquela pessoa que é impossível não querer por perto. Ela se descreve como: Mestranda em Inovação em Tecnologias Educacionais, bacharelanda em TI, licenciada em Letras Inglês, técnica em Informática e Redes de Computadores. A teacher que toca violão na escola. A da PyLadies. A que é professora de Inglês mas estuda tecnologia.
 
 Pessoalmente eu diria que não existe bio suficiente para descrever o quanto essa mulher faz tudo, tem energia pra tudo e ainda sobra tempo pra cultivar amizades e cantar umas músicas (ela é uma das poucas pessoas que me atende quando peço para tocar Calcinha Preta). Pois bem, que vocês também conheçam (se já não conhecem) Debs e depositem na conta dela todos os biscoitos do mundo.
 

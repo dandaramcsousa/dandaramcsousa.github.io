@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#momentosbiscoitos: Marianne"
+title: "#momentobiscoitos: Marianne"
 subtitle: "s01e03: a Relâmpago Marquinho das músicas"
 date: 2020-09-11 18:00:00 -0300
 background: ''

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#momentosbiscoitos: Vanessa"
+title: "#momentobiscoitos: Vanessa"
 subtitle: "s01e02: a Caririense do Forró e Bit"
 date: 2020-08-27 18:00:00 -0300
 background: ''
