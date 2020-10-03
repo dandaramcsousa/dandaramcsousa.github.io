@@ -6,7 +6,7 @@ date: 2020-09-11 18:00:00 -0300
 background: ''
 ---
 
-<img src="/img/momentobiscoitos/relampagomarquinho.jpg" alt="Foto de Vanessa" width="30%" style="float: left; margin-right: 10px;">
+<img src="/img/momentobiscoitos/relampagomarquinho.jpg" alt="Foto de Mari" width="30%" style="float: left; margin-right: 10px;">
 
 
 O momento biscoitos dessa vez é com uma das mulheres mais incríveis que já passou na minha vida. Fizemos a graduação juntas e é impossível conviver e não admirar Mari. Ela tem 23 anos e atualmente é Research Engineer na [DeepMind](https://deepmind.com/) (Londres). É formada em Ciência da Computação pela UFCG, e durante a graduação teve a oportunidade de contribuir em diferentes projetos como o [Projeto Olímpico](http://www.dsc.ufcg.edu.br/~opi/), e em atividades com as ilustríssimas do PyLadies Paraíba. Outras coisas que ela fez vocês podem ver aqui: [http://mari-linhares.github.io](http://mari-linhares.github.io).
