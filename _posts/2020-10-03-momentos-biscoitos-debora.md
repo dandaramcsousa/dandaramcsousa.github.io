@@ -4,7 +4,7 @@ title: "#momentobiscoitos: Débora"
 subtitle: "s01e04: a palestrante internacional e mundialmente famosa da PyLadies"
 date: 2020-10-03 16:00:00 -0300
 background: ''
----
+---dand
 
 <img src="/img/momentobiscoitos/debsperfeita.jpg" alt="Foto de Mari" width="30%" style="float: left; margin-right: 10px;">
 
@@ -35,7 +35,7 @@ Engraçado tu falar em orgulho, porque esse foi um sentimento que por muuuuuuuit
 
 Esse acontecimento foi há 8 anos atrás, e você acha que muita coisa mudou? Ano passado mesmo, num evento famoso de Python, estávamos numa roda de conversa e falamos sobre trabalho.. Depois de muito trabalho interno, me senti confortável e falei sobre o que faço…. E um cara pergunta: ah, então o que é que você tá fazendo aqui? O cara sabia quem eu era, o que eu fazia na comunidade, e mesmo assim acabou me fazendo passar por esse momento super embaraçoso rs. Lembro que quando isso aconteceu, estava com alguns colegas, e eles junto comigo, ficaram pensando em formas de justificar o porquê de eu estar ali, principalmente considerando que recebi uma ajuda de custo para poder ir pra esse evento.
 
-No primeiro caso, eu tava fazendo outro curso, passei num processo seletivo e, de alguma forma (me descabelando), estava conseguindo gerenciar fazer os dois (inclusive no curso de Redes, fui laureada - não coloca isso no blog post, isso é só pra tu ver viu, Dands). Já no segundo caso, uma comissão com pessoas que não me conhecia, leram sobre as coisas que fiz por e para a comunidade e julgaram por bem me dar essa ajuda de custo para comparecer ao evento. Eu não precisava da validação do cara que me questionou, nem de ninguém. Eu sabia porque estava lá.
+No primeiro caso, eu tava fazendo outro curso, passei num processo seletivo e, de alguma forma (me descabelando), estava conseguindo gerenciar fazer os dois. Já no segundo caso, uma comissão com pessoas que não me conhecia, leram sobre as coisas que fiz por e para a comunidade e julgaram por bem me dar essa ajuda de custo para comparecer ao evento. Eu não precisava da validação do cara que me questionou, nem de ninguém. Eu sabia porque estava lá.
 
 Por conta de questões e situações como essas, eu sempre omiti a minha formação (em Letras) e minha profissão. Sempre que ia dar uma palestra em um evento de tecnologia, colocava que era técnica nisso e naquilo, que tava fazendo faculdade de TI, mas nunca botava que era formada em Letras e que trabalhava como professora de inglês. Eu pensava que falar o que eu fazia (ser professora de inglês), que não era diretamente ligada à tecnologia ou programação, automaticamente me invalidava. Como se tudo que eu fizesse (profissionalmente) colocasse o que eu faço da comunidade no ralo por não estar diretamente ligado a desenvolvimento de software.
 
