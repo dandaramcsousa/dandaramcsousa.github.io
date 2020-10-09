@@ -4,7 +4,7 @@ title: "#momentobiscoitos: Débora"
 subtitle: "s01e04: a palestrante internacional e mundialmente famosa da PyLadies"
 date: 2020-10-03 16:00:00 -0300
 background: ''
----dand
+---
 
 <img src="/img/momentobiscoitos/debsperfeita.jpg" alt="Foto de Mari" width="30%" style="float: left; margin-right: 10px;">
 
